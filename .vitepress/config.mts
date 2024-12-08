@@ -12,6 +12,7 @@ export default defineConfig({
       label: 'Russian',
     }
   },
+  base: '/atlas',
   ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
