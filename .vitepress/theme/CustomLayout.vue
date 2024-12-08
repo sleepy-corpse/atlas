@@ -19,19 +19,19 @@ console.log(frontmatter.value.layout)
                     <h5 class="legend__block__header">Частота возникновения детальной причины от 1 до 5(1 - наиболее частая, 5 - редкая)</h5>
                     <div class="legend__block__content">
                         <div class="legend__block__content__item">
-                            <img src="../../assets/freq_1.svg" alt="1" /> - 1
+                            <img src="/assets/freq_1.svg" alt="1" /> - 1
                         </div>
                         <div class="legend__block__content__item">
-                            <img src="../../assets/freq_2.svg" alt="2" /> - 2
+                            <img src="/assets/freq_2.svg" alt="2" /> - 2
                         </div>
                         <div class="legend__block__content__item">
-                            <img src="../../assets/freq_3.svg" alt="3" /> - 3
+                            <img src="/assets/freq_3.svg" alt="3" /> - 3
                         </div>
                         <div class="legend__block__content__item">
-                            <img src="../../assets/freq_4.svg" alt="4" /> - 4
+                            <img src="/assets/freq_4.svg" alt="4" /> - 4
                         </div>
                         <div class="legend__block__content__item">
-                            <img src="../../assets/freq_5.svg" alt="5" /> - 5
+                            <img src="/assets/freq_5.svg" alt="5" /> - 5
                         </div>
                     </div>
                 </div>
@@ -40,16 +40,16 @@ console.log(frontmatter.value.layout)
                     <h5 class="legend__block__header">Категория корневой причины по способу возникновения</h5>
                     <div class="legend__block__content">
                         <div class="legend__block__content__item legend__block__content__item_category">
-                            <img src="../../assets/category_1.svg" alt="1" /><span>- технология</span>
+                            <img src="/assets/category_1.svg" alt="1" /><span>- технология</span>
                         </div>
                         <div class="legend__block__content__item legend__block__content__item_category">
-                            <img src="../../assets/category_2.svg" alt="2" /><span> - сырье</span>
+                            <img src="/assets/category_2.svg" alt="2" /><span> - сырье</span>
                         </div>
                         <div class="legend__block__content__item legend__block__content__item_category">
-                            <img src="../../assets/category_3.svg" alt="3" /><span> - оборудование</span>
+                            <img src="/assets/category_3.svg" alt="3" /><span> - оборудование</span>
                         </div>
                         <div class="legend__block__content__item legend__block__content__item_category">
-                            <img src="../../assets/category_4.svg" alt="4" /><span> - организация</span>
+                            <img src="/assets/category_4.svg" alt="4" /><span> - организация</span>
                         </div>
                     </div>
 
